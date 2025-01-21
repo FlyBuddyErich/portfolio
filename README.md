@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Портфолио
+Данный проект является моим портфолио, в котором вы можете увидеть список моих работ, а также технологий, которые я использовал для их создания. 
 
-First, run the development server:
+## Обо мне
+Привет! Меня зовут Максим, и я 20-летний фронтенд-разработчик. Я специализируюсь на создании современных веб-приложений с использованием передовых технологий.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Технологии
+В данном портфолио я использую следующие технологии:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Next.js
+* TypeScript
+* Tailwind CSS
+* React
+* Framer Motion
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Демо
 
-To learn more about Next.js, take a look at the following resources:
+https://portfolio-flybuddyerichs-projects.vercel.app/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Компьютерная версия](https://github.com/user-attachments/assets/dfa80d04-1a0c-4323-9f22-e35c58e0032a)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![Компьютерная версия](https://github.com/user-attachments/assets/809f8364-e16e-413f-aa34-ab9c9fd773f5)
 
-## Deploy on Vercel
+![Компьютерная версия](https://github.com/user-attachments/assets/5a33757c-baab-4464-92fd-d470081c77ff)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Мобильная версия](https://github.com/user-attachments/assets/ad6cc890-9b64-4571-a0f5-03ae0883c436)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Мобильная версия](https://github.com/user-attachments/assets/7fbc3bc2-d21f-47a6-9bb6-b2bed9ea741c)
+
+
+
+
+## 🔗 Связаться со мной
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hopelesshex)
+
+[![Email](https://img.shields.io/badge/Email-kokorewmaxim@inbox.ru-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kokorewmaxim@inbox.ru)
+
+[![Email](https://img.shields.io/badge/Email-kokorew.maksim@mail.ru-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kokorew.maksim@mail.ru)
+
+## Автор
+
+- [@flybuddyerich](https://github.com/FlyBuddyErich)
