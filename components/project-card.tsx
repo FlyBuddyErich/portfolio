@@ -2,13 +2,14 @@
 
 import { motion } from 'framer-motion'
 import Image from 'next/image'
+import { StaticImageData } from 'next/image';
 
 interface ProjectCardProps {
   title: string
   description: string
   technologies: string[]
-  desktopImage: string
-  mobileImage: string
+  desktopImage: string | StaticImageData
+  mobileImage: string | StaticImageData
   link: string
 }
 
