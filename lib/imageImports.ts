@@ -6,9 +6,15 @@ import reelmagicComputer from '@/public/reelmagicComputer.png'
 import reelmagicMobile from '@/public/reelmagicMobile.png'
 import biteblissComputer from '@/public/biteblissComputer.png'
 import biteblissMobile from '@/public/biteblissMobile.png'
+import lempriseComputer from '@/public/lempriseComputer.png'
+import lempriseMobile from '@/public/lempriseMobile.png'
 
 
 export const projectImages = {
+  Lemprise: {
+    computer: lempriseComputer,
+    mobile: lempriseMobile
+  },
   storeHere: {
     computer: storeHereComputer,
     mobile: storeHereMobile

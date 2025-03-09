@@ -27,10 +27,19 @@ const technologies = [
   'Next.js',
   'Tailwind CSS',
   'Framer Motion',
-  'Node.js'
+  'Zustand',
+  'MobX',
 ]
 
 const projects = [
+  {
+    title: 'Lemprise',
+    description: 'Full-stack веб-приложение для хранения файлов, а также возможностью делится ими с другими пользователями',
+    technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Zustand', 'Vite', 'Framer Motion', 'Shadcn/ui'],
+    desktopImage: projectImages.Lemprise.computer,
+    mobileImage: projectImages.Lemprise.mobile,
+    link: 'https://lemprise-app.vercel.app/'
+  },
   {
     title: 'Store Here',
     description: 'Full-stack веб-приложение для хранения файлов, а также возможностью делится ими с другими пользователями',
@@ -85,7 +94,7 @@ export default function Home() {
               transition={{ delay: 1.5 }}
               className="max-w-2xl text-gray-400"
             >
-              Я 20-летний фронтенд-разработчик, специализируюсь на создании современных веб-приложений с использованием передовых технологий. Меня захватывает процесс разработки и возможность создавать удобные и полезные продукты. Я открыт к предложениям на позицию frontend-разработчика, где могу внести свой вклад и развиваться вместе с компанией.
+              Я молодой фронтенд-разработчик, специализируюсь на создании современных веб-приложений с использованием передовых технологий. Меня захватывает процесс разработки и возможность создавать удобные и полезные продукты. Я открыт к предложениям на позицию frontend-разработчика, где могу внести свой вклад и развиваться вместе с компанией.
             </motion.p>
             
             <TechStack technologies={technologies} />
@@ -99,7 +108,7 @@ export default function Home() {
               whileTap={{ y: 0 }}
               onClick={handleScroll}
             >
-              привет
+              проекты
             </motion.a>
           </div>
         </section>
