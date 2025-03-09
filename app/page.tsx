@@ -34,7 +34,7 @@ const technologies = [
 const projects = [
   {
     title: 'Lemprise',
-    description: 'Full-stack веб-приложение для хранения файлов, а также возможностью делится ими с другими пользователями',
+    description: 'Клиентская часть для личного магазина бренда одежды и творческого объединения Lemprise.',
     technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Zustand', 'Vite', 'Framer Motion', 'Shadcn/ui'],
     desktopImage: projectImages.Lemprise.computer,
     mobileImage: projectImages.Lemprise.mobile,
