@@ -18,13 +18,12 @@
 ## Демо
 
 https://portfolio-flybuddyerichs-projects.vercel.app/
-![Компьютерная версия](https://github.com/user-attachments/assets/a18d59a2-dead-4c6c-a479-0c1c7eac2c6b)
-![Компьютерная версия](https://github.com/user-attachments/assets/4906a75c-b807-4454-af0e-34639ed7a4ab)
-![Компьютерная версия](https://github.com/user-attachments/assets/1521cf67-429e-4e2c-bee0-edc9f7c652d1)
 
-![Мобильная версия](https://github.com/user-attachments/assets/f600fe66-d007-44ca-8378-b9c85f17e035)
+![Компьютерная версия](https://github.com/user-attachments/assets/7e3b01ce-aa2c-490c-b0ca-b96176db9e4a)
+![Компьютерная версия](https://github.com/user-attachments/assets/e8506037-d64b-425f-aa7a-abf19b7c76e0)
 
 ![Мобильная версия](https://github.com/user-attachments/assets/e8b14680-5f8b-4381-a218-7ffaec34719c)
+
 
 
 
